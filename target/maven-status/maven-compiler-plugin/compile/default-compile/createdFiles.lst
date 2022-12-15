@@ -1,0 +1,7 @@
+com/salt/hackday/controller/UserController.class
+com/salt/hackday/repository/UserRepository.class
+com/salt/hackday/HackdayApplication.class
+com/salt/hackday/service/UserService.class
+com/salt/hackday/service/UserServiceImplementation.class
+com/salt/hackday/model/User.class
+com/salt/hackday/model/UserDTO.class
