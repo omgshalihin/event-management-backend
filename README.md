@@ -5,9 +5,9 @@
 
 Open [https://event-management-frontend-production.up.railway.app/](https://event-management-frontend-production.up.railway.app/) with your browser to see the result.
 
-## Backend Repository
+## Frontend Repository
 
-You can check out [HireMe-Frontend GitHub repository](https://github.com/omgshalihin/skillsondemand_backend/) - your feedback is welcome!
+You can check out [Evently Social-Frontend GitHub repository](https://github.com/omgshalihin/event-management-frontend) - your feedback is welcome!
 
 ## Deployed on Railway app
 
